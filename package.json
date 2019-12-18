@@ -1,0 +1,21 @@
+{
+  "name": "ccms-icon",
+  "version": "0.0.1",
+  "description": "数据赢家使用的icon集合，包含 ccms-components组件库所使用的。",
+  "main": "iconfont.js",
+  "scripts": {
+    "version": "npm publish",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShuyunFF2E/ccms-icon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShuyunFF2E/ccms-icon/issues"
+  },
+  "homepage": "https://github.com/ShuyunFF2E/ccms-icon#readme"
+}
